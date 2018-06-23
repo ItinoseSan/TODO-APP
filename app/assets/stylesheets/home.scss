@@ -1,0 +1,40 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.home {
+  background-color: cadetblue;
+  padding-bottom: 30px;
+}
+
+.home h1{
+  text-align: center;
+  padding-top: 45px;
+  color: white;
+}
+
+.home p{
+  text-align: center;
+  font-size: 17pt;
+  color: white;
+}
+
+.new-content h2{
+  padding-top: 25pt;
+  text-align: center;
+}
+
+.button-to-new-todo i{
+  font-size: 50pt;
+  color: slategray;
+}
+
+.button-to-new-todo p{
+  padding-top: 15pt;
+  text-align: center;
+}
+
+.button-to-new-todo i:hover{
+  color: black;
+}
